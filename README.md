@@ -1,15 +1,12 @@
----
-
 ## 🎥 Vídeo do Projeto
 
 Confira abaixo um vídeo demonstrativo do projeto em funcionamento:
 
 
-
+https://github.com/user-attachments/assets/c812580f-31f3-46ab-9365-143904a1c844
 
 
 ---
-
 
 # 🚀 Projeto Tech School
 
@@ -103,11 +100,7 @@ Abra um Pull Request e aguarde a revisão.
 📄 Licença
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
 
----
-👨‍💻 Desenvolvido por
-toz3tto
-💻 GitHub
-📧 Email
+
 ---
 
 🌟 Destaques do Projeto
@@ -118,4 +111,7 @@ Facilidade de Uso: Navegação simples e intuitiva.
 
 ---
 
+👨‍💻 Desenvolvido por
+toz3tto
 
+---
