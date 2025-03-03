@@ -97,12 +97,6 @@ Abra um Pull Request e aguarde a revisão.
 
 ---
 
-📄 Licença
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
-
-
----
-
 🌟 Destaques do Projeto
 
 Design Moderno: Cores vibrantes e layout limpo.
