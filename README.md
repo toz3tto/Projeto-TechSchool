@@ -54,6 +54,7 @@ Basta abrir o arquivo index.html no seu navegador favorito.
 
 ---
 📂 Estrutura de Arquivos
+
 Aqui está a estrutura do projeto:
 
  ```
