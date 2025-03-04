@@ -81,7 +81,7 @@ Faça um fork do projeto.
 
 Crie uma nova branch:
 
-bash
+ ```bash
 Copy
 git checkout -b feature/nova-feature
 Commit suas mudanças:
@@ -95,7 +95,7 @@ bash
 Copy
 git push origin feature/nova-feature
 Abra um Pull Request e aguarde a revisão.
-
+ ```
 ---
 
 🌟 Destaques do Projeto
